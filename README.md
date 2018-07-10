@@ -5,4 +5,5 @@ It's all from the wild, and shouldn't be trusted.
 Don't run on your system unless you're comfortable with you system and possibly network being whiped.
 Seems like fun binaries to Reverse Engineer ay savy??
 
+If you'd like to share your collection, PM me on Twitter.
 -REal0day
