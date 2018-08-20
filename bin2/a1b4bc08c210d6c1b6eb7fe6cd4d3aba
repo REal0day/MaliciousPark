@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN">
+<html>
+  <head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <style type="text/css">
+  body, th { font-family:tahoma, verdana, arial, helvetica, sans; font-weight:normal; font-size:9pt; }
+body { background-color:#DDF; padding:10px; }
+body, p, form { margin:0 }
+a { text-decoration:none;  background-color:Transparent; color:#05F; }
+a:visited { color:#55F; }
+a:hover { background-color:#EEF; }
+img { border-style:none }
+#files td { font-size:10pt; background:#FFF; border:1px solid #BBF }
+#files td img { vertical-align:top }
+#files th, th a, th a:visited { color:#555; font-size:13pt; font-weight:bold; padding-bottom:0; }
+#foldercomment { font-size:10pt; color:#888; background:#EEE; padding:3px; border:1px solid #DDD; border-bottom:3px solid #DDD; margin-top:2px; }
+#folder, .big { font-size:14pt; font-weight:bold;  }
+#folderlabel, #folderstats, #footer { font-size: 8pt; }
+#body {
+  border-bottom: 4px solid #BBF;
+     border-top: 4px solid #BBF;
+    border-left: 1px dotted #BBF;
+   border-right: 1px dotted #BBF;
+  background:#F3F3FF;
+  padding:15px;
+  margin:15px;
+}
+.comment { font-size:7pt; color:#888; background:#EEE; padding:3px; border:1px solid #DDD; margin-top:2px; }
+.button { height:24px; padding:4px 10px; margin:5px; border:2px solid black; background:white; font-size:8pt; font-weight:bold; }
+a.button { padding:8px 10px; }
+a.button img { vertical-align:text-bottom; }
+.flag { font-weight:bold; font-size:8pt; background:white; color:red; text-align:center; border:1px solid red; }
+.item-folder { font-size:smaller; margin-top:4px; }
+
+  
+  </style>
+  </head>
+<body>
+<h1>Download limit</h1>
+On this server there is a limit on the number of <b>simultaneous</b> downloads.<br>This limit has been reached. Retry later.
+
+<hr>
+<div style="font-family:tahoma, verdana, arial, helvetica, sans; font-size:8pt;">
+<a href="http://www.rejetto.com/hfs/">HttpFileServer 2.3 beta</a>
+<br>2018/7/25 星期三 上午 9:19:04
+</div>
+</body>
+</html>
